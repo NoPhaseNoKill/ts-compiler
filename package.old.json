@@ -1,18 +1,8 @@
 {
-  "name": "ts-compiler-nophasenokill",
+  "name": "@NoPhaseNoKill/ts-compiler",
   "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/NoPhaseNoKill/ts-compiler.git",
-  "bugs": {
-    "url": "https://github.com/NoPhaseNoKill/ts-compiler/issues"
-  },
-  "keywords": [
-    "typescript",
-    "compiler",
-    "ts"
-  ],
-  "private": false,
-  "homepage": "https://github.com/NoPhaseNoKill/ts-compiler#readme",
   "author": "Tom Gardiner <tom.gardiner7@gmail.com>",
   "license": "MIT",
   "scripts": {

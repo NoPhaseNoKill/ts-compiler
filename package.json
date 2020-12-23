@@ -1,5 +1,5 @@
 {
-  "name": "ts-compiler-nophasenokill",
+  "name": "ts-compiler",
   "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/NoPhaseNoKill/ts-compiler.git",

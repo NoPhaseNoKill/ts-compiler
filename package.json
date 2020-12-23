@@ -2,6 +2,8 @@
   "name": "ts-compiler",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/NoPhaseNoKill/ts-compiler.git",
+  "author": "Tom Gardiner <tom.gardiner7@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "tsc",

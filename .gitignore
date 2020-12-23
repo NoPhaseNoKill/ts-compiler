@@ -1,0 +1,5 @@
+.idea/
+build/
+*.iml
+# Project exclude paths
+/node_modules/
